@@ -1,4 +1,4 @@
-Spark Change Log
+Spark Change Log _updated- 3rd and 4th July
 ----------------
 
 Release 1.5.2
