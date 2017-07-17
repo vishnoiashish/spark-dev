@@ -1,4 +1,5 @@
 Spark Change Log _updated- 3rd and 4th July
+change for git pull
 ----------------
 
 Release 1.5.2
